@@ -1,0 +1,17 @@
+body {
+	 background: url("https://img4.goodfon.ru/original/1920x1080/a/53/game-background-gory-les-idoly-cherep-kuvshin-noch.jpg");
+     color: white;
+     background-opacity: .2;
+     background-repeat: no-repeat;
+}
+
+.border_main {
+	border: 1px solid #181C1F;
+	width: 1918px;
+     position: absolute;
+     right: 0px;
+     left: 0px;
+     top: 0px;
+	height: 100px;
+     background: linear-gradient(90deg, #181C1F, #222629);
+}
